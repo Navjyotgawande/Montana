@@ -1,0 +1,346 @@
+ body{
+    /* font-family: 'Josefin Slab', serif; */
+
+    /* font-family: 'Raleway', sans-serif; */
+    /* background-color: black; */
+    overflow-x: hidden;
+}
+header{
+    background: url(../images/background/banner.png);
+    background-size: 100% 100%;
+    height: 600px;
+}
+.about-us{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.nav-links{
+
+}
+.line-bottom{
+    border-bottom: 2px solid white;
+    padding-bottom: 7px
+}
+
+
+
+.logo img{
+    margin-right: 148px;
+    margin-left: 10px;
+}
+.img-1, .img-2{
+    width: 270px;
+    height: 382x;
+}
+.marg{
+    padding-top: 86px;
+    padding-bottom: 60px;
+}
+.vacation{
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)) ,url(../images/background/video.png);
+    height: 688px;
+    background-size: 100% 100%;
+    
+}
+.food{
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.heading{
+position: absolute;
+top: 240px;
+}
+.vdo{
+    padding: 21px 24px;
+    background-color: white;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    font-size: 13px;
+    color:#009DFF;
+    
+}
+.features{
+    padding-top: 93px;
+}
+.top-mar{
+    padding-bottom: 100px;
+}
+.querr{
+    font-size: 30px;
+    color: #1F1F1F;
+    font-weight: 400;
+}
+.padding{
+    padding: 20px 0px 30px 0px;
+}
+.border{
+    border: 1px solid #BABABA;
+    padding: 38px 50px;
+
+}
+.phone{
+    padding: 10px 10px;
+    border-radius:34px;
+    background-color:#009DFF;
+    color: white;
+    font-size: 20px;
+    display:inline;
+}
+.phone:hover{
+    background-color: white;
+    color: #009DFF;
+    border: 1px solid #009DFF;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.width{
+    width: 200px;
+}
+.color{
+    color: #A8A7A0;
+}
+.color:hover{
+    color: white;
+}
+.hamberger{
+    font-size: 30px;
+}
+.h1{
+    font-size:40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.spec{
+    color: #009DFF;
+    font-size: 14px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+.about-us p{
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+.about-h3{
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 56px;
+    color: #1F1F1F;
+    padding-top: 17px;
+}
+.learn{
+    border: 1px solid #919191;
+    display: inline;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+     
+}
+.display{
+    font-size: 16px;
+    color: #919191;;
+}
+.display:hover{
+    text-decoration: none;
+}
+.circle{
+    font-size: 8px;
+    
+}
+.margin-left{
+    margin-left: -40px;
+}
+.book-now{
+    width: 100%;
+    background-color: white;
+    color: #009DFF;
+    margin: 20px 0px;
+}
+.book-now:hover{
+    background: none;
+    
+}
+.now:hover{
+    text-decoration: none;
+}
+.footer{
+    background-color: black;
+    padding-top: 118px;
+    padding-bottom: 30px;
+}
+.down{
+    font-size: 10px;
+}
+.anchor{
+    font-size: 15px;
+    font-weight: 600;
+}
+.anchor:hover{
+border-bottom: 2px solid white;
+padding-bottom: 7px;
+text-decoration: none;
+}
+.hero h3{
+    font-size: 8vw;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+.hero p{
+    font-size: 24px;
+    font-weight: 400;
+
+}
+.booking{
+    padding: 8px 18px;
+    border: 1px solid #009DFF;
+    border-radius: 0px;
+    color: #009DFF;
+    color: #fff;
+    
+}
+.about-us p, .food p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #4D4D4D;
+
+}
+.offer-head{
+    font-size: 22px;
+    font-weight: 400;
+    color: #1F1F1F;
+}
+.faint{
+    color: #4D4D4D;
+    font-size: 16px;
+}
+.power{
+    font-size: 14px;
+}
+.vacation h1{
+    font-size: 46px;
+    line-height: 56px;
+    font-weight: 400;
+}
+.superior{
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url(../images/Illustration/feature1.png);
+    background-size: 100% 100%;
+    height: 500px;
+
+}
+.deluxe{
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url(../images/Illustration/feature2.png);
+    background-size: 100% 100%;
+    height: 500px;
+}
+.signature{
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url(../images/Illustration/feature3.png);
+background-size: 100% 100%;
+height: 500px;  
+}
+.couple{
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url(../images/Illustration/feature4.png);
+    background-size: 100% 100%;
+    height: 500px;
+}
+.relative{
+    position: relative;
+    top: 70%;
+    left: 30px;
+}line
+.rooms{
+    font-size: 30px;
+}
+.footer h3{
+    font-weight: 500;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    font-size: 22px;
+  
+}
+.gmail{
+    padding: 12px 0px 12px 14px;
+    border: none;
+}
+.sign-up{
+    padding: 7px 9px 7px 9px;
+    border: none;
+    color: white;
+}
+.mail{
+    padding: 9px 68px 9px 10px;
+    background-color: white;
+
+}
+.mail:hover{
+    text-decoration: none;
+
+}
+.sign{
+    background-color: #009DFF;
+    padding: 9px 10px;
+    color: white;
+    margin-left: -10px;
+}
+.sign:hover{
+    text-decoration: none;
+    color: white;
+}
+.updates{
+    padding: 18px 0px 10px 0px;
+}
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255,255,255,0.2);
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.nav-hover:hover{
+    text-decoration: none;
+    color:white;
+}
+.link:hover{
+    color:white;
+}
+
+@media (min-width:320px) and (max-width:767px){
+.logo img{
+    margin-right: 0px;
+}
+
+}
+@media (max-width:991px){
+    .toggle ul{
+        position:absolute;
+        width: 100%;
+        height:300px;
+        background-color:darkgrey;
+        top: 96px;
+        right: 0px;
+        text-align:left;
+        transition: all 0.5s;
+        z-index: 1;
+        margin-left:0px ;
+        display: none;
+    
+    }
+    .toggle ul li a{
+        color: black !important;
+        margin-left: -20px !important;
+        margin-top: 20px !important;
+    }
+    .toggle ul li{
+        margin-top: 20px;
+    }
+    #hom, .toggle ul li a:hover{
+        color:antiquewhite !important;
+    }
+    ul.show{
+        right: 0;
+    }
+    .logo{
+        margin-right: auto;
+        padding-left: 20px;
+    }
+    
+    
+    }
